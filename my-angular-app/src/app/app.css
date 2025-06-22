@@ -1,0 +1,13 @@
+nav {
+   background-color: rgb(240, 217, 217); 
+   display: flex;
+   justify-content: space-between;
+   padding: 15px;
+   font-size: 1.5rem;
+}
+
+nav p:hover {
+    color: blue;
+}
+
+
